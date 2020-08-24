@@ -1,3 +1,3 @@
 # Python Scraper for HackerNews
 
-Personal exercise in Python&Scrapy
+Exercise in Python & Scrapy
