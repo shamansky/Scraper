@@ -1,7 +1,6 @@
 # Python Scraper for HackerNews
 
-Exercise in Python & Scrapy
-
+Ive started learning Scrapy and Python and decided to apply what Ive learned by scraping one of my favourite sites : Hackernews.
 
 Use the following command to get the data : 
 scrapy crawl hackernews -o {hackernews}.json
